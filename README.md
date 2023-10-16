@@ -9,7 +9,7 @@ python main_cvpr.py
 The outlier data can be downloaded at <https://people.eecs.berkeley.edu/~hendrycks/300K_random_images.npy>
 
 
-## Citation
+### Citation
 If you find this useful in your research, please consider citing:
 ```
 @inproceedings{zhu2023openmix,
